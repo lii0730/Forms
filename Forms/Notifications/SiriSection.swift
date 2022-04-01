@@ -21,6 +21,8 @@ struct SiriSection: View {
         } footer: {
             Text("Choose while apps can suggest shortcuts on\nthe lock screen")
         }
+        
+        
     }
 }
 
